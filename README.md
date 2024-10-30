@@ -117,7 +117,6 @@ Image-Based-Data-Extraction-System/
 ├── app.py                # Main application script
 ├── ocr_module.py         # Module for OCR extraction using PaddleOCR
 ├── mongo_module.py       # MongoDB interactions (CRUD operations)
-├── patterns.py           # RegEx patterns for entity extraction
 ├── requirements.txt      # List of required Python libraries
 ├── README.md             # Project documentation
 ├── uploads/              # Directory to store uploaded images temporarily
